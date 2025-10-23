@@ -14,7 +14,7 @@ This project implements a neural network to recognize handwritten digits (0-9) f
 
 - **Input:** Flattened 28×28 grayscale images (784 neurons)  
 - **Hidden Layer 1:** 128 neurons with ReLU activation function
-- **Hidden Layer 2:** 32 neurons with ReLU activation  
+- **Hidden Layer 2:** 32 neurons with ReLU activation  function
 - **Output Layer:** 10 neurons with Softmax activation (one for each digit)  
 
 **Total Parameters:** 104,938
