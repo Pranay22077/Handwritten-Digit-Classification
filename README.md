@@ -1,6 +1,6 @@
 # 🧠 Handwritten Digit Recognition using Neural Networks
 
-A deep learning project that classifies handwritten digits from the MNIST dataset using a simple Artificial Neural Network (ANN) built with TensorFlow and Keras
+A deep learning project that classifies handwritten digits from the MNIST dataset using a simple Artificial Neural Network built with TensorFlow and Keras
 
 ---
 
